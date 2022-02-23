@@ -117441,6 +117441,23 @@
       "tags": [
         "CoziCorners"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "7BtSRTCk3BZkjmWvoLtP8igJTRcbACWrYHaNCv7ASRdt",
+      "symbol": "CHUD",
+      "name": "Chud Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/rolandstudios/CHUD/main/logo.png",
+      "tags": [
+        "gaming-token",
+        "utility-token",
+        "social-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/Roland_Studios",
+        "website": "https://www.rolandstudios.com"
+      }
     }
   ],
   "version": {
